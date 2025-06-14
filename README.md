@@ -91,12 +91,6 @@ CITY = 'Mumbai'
 
 ---
 
-## 🖼️ Example Screenshot
-
-> *(Optional: Add screenshots of your graphs here using GitHub uploads or external URLs)*
-
----
-
 ## 🔑 API Source
 
 * [OpenWeatherMap API Documentation](https://openweathermap.org/forecast5)
@@ -111,7 +105,12 @@ MIT License © 2025
 
 ## 🤝 Contributors
 
-* **Developed by:Vidhi Krishna Mandhana
+Developed by:Vidhi Krishna Mandhana
+My Github url:https://github.com/vidhi1105
+My Linkedin url:www.linkedin.com/in/
+vidhi-mandhana-64a6a5288
+
+
 
 
 
