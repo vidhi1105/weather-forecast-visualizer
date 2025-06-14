@@ -118,7 +118,7 @@ MIT License © 2025
 ## 🤝 Contributors
 
 * **Developed by:Vidhi Krishna Mandhana
-* **Internship Project for:** Elitetech intern 
+
 
 
 
