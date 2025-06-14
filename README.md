@@ -1,9 +1,3 @@
-Great! Below is a **complete, detailed, and well-structured README.md** for your **first project (Weather Forecast Visualization)** including all necessary details.
-
-You can copy and paste this **directly** into your repository’s `README.md` file.
-
----
-
 # 🌦️ Weather Forecast Visualization using OpenWeatherMap API
 
 ## 📌 Project Overview
